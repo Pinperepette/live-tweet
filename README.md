@@ -1,4 +1,4 @@
-# live-tweet
+# LiveTweet
 Program to search tweets, suitable for live streaming /
 credits @Pinperepette & @Daniele_KK 
 
