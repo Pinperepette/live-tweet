@@ -1,4 +1,4 @@
-# live-tweet
+# LiveTweet
 Program to search tweets, suitable for live streaming /
 credits @Pinperepette & @Daniele_KK 
 
@@ -6,4 +6,4 @@ credits @Pinperepette & @Daniele_KK
 python3, PyQt4, QtCore, QtGui, twitter (python library).
 
 # Settings:
-Edit your LiveTwitt.py with your twitter api.
+Edit your LiveTweet.py with your twitter api.
